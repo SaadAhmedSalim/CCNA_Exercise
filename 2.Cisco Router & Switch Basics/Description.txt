@@ -1,0 +1,12 @@
+Cisco Router & Switch Basics
+--------------------------
+Description:
+Cisco Switch and Router configuration in a simple way with procedure, also verification system. Then, CDP is configured and and verified.
+Finally, I troubleshoot switch and check the interfaces.
+
+# Problem is attached in PDF file.
+
+Devices :
+
+Switch-PT (2960)
+Router (1841) [Preferred 2800]
