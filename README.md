@@ -39,8 +39,6 @@ Cisco Switch and Router configuration in a simple way with procedure, also verif
 
 Finally, I troubleshoot switch and check the interfaces.
 
-# Problem is attached in PDF file.
-
 Devices :
 
   Switch-PT (2960)
